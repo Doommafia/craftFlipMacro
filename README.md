@@ -1,4 +1,4 @@
-# craftFlipMacro
+# Hypixel craft flip macro
 Fill up your hotbar, then fill the rest of you inventory with the items that are required for the recipe.
 
 The macro goes through the rows, so 3 recipes total before you have to manually refill your inventory and put those items away.
